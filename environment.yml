@@ -6,7 +6,6 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - mpl_toolkit
   - dill
   - pandas
   - partd
