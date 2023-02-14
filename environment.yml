@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - mpl_toolkit
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
