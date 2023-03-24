@@ -2,9 +2,9 @@
 
 Colección de Notebooks y códigos para introducirse en el cálculo numérico de aerodinámica potencial linealizada
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://rayleighlord.github.io/pyAero/intro.html)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://amartinezcava.github.io/pyAero/intro.html)
 
-Accede a los cuadernos [aquí](https://rayleighlord.github.io/pyAero/intro.html)
+Accede a los cuadernos [aquí](https://amartinezcava.github.io/pyAero/intro.html)
 
 ### Building the book
 
