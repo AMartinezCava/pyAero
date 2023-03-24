@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+  numbered: true
+chapters:
+  - file: notebooks/01-rankine/1.Notebook_RANKINE
+    sections:
+      - file: notebooks/01-rankine/1b.Notebook_RANKINE - SOL
+  - file: notebooks/02-torbellino-pared/2.Notebook_Torbellino+Pared
+  - file: notebooks/03-manantial-esquina/3.Notebook_Manantial+Esquina
+  - file: notebooks/04-manantiales-alineados/4.Notebook_Manantiales-Alineados
